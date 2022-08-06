@@ -11,6 +11,7 @@ Use Pushbullet to monitor notifications on your Android smartphone. When you rec
 - Download Pushbullet app on your device + create your Pushbullet account
 - Please read this article to learn how to get Pushbullet's API key and how to test  
     - https://medium.com/@hotakoma/receive-real-time-notifications-with-pushbullet-websockets-2bd2dc073b28
+- Please add your API key to `PUSHBULLET_API_KEY` in `settings.py`
 
 
 ### on Raspberry Pi
