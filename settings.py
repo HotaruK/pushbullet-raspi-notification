@@ -1,0 +1,6 @@
+PUSHBULLET_API_KEY = ""
+PUSHBULLET_WSS_URI = "wss://stream.pushbullet.com/websocket/" + PUSHBULLET_API_KEY
+
+GPIO_RED_PIN = 11
+GPIO_BLUE_PIN = 12
+GPIO_GREEN_PIN = 13
